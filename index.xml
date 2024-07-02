@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Virtue Therapeutics</title>
+    <title>Virtue Therapeutics</title>
     <link>https://akshayvtx.github.io/</link>
-    <description>Recent content in About on Virtue Therapeutics</description>
+    <description>Recent content on Virtue Therapeutics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://akshayvtx.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://akshayvtx.github.io/about/</guid>
-      <description>Virtue Therapeutics Pioneering the Future of GPCR Drug Discovery At Virtue Therapeutics, we are at the forefront of revolutionizing the field of computational drug discovery, with a specialized focus on the challenging yet promising G Protein-Coupled Receptors (GPCRs). As the largest human protein family, GPCRs play a pivotal role in numerous diseases, including diabetes, obesity, depression, and sexual dysfunction. About 1/3rd of all approved drugs target GPCRs, highlighting their significance in therapeutics developments.</description>
+      <description>Agonism by Design Pioneering the Future of GPCR Drug Discovery At Virtue Therapeutics, we are at the forefront of revolutionizing the field of computational drug discovery, with a specialized focus on the challenging yet promising G Protein-Coupled Receptors (GPCRs). As the largest human protein family, GPCRs play a pivotal role in numerous diseases, including diabetes, obesity, depression, and sexual dysfunction. About 1/3rd of all approved drugs target GPCRs, highlighting their significance in therapeutics developments.</description>
     </item>
     
   </channel>
